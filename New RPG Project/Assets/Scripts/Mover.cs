@@ -13,7 +13,14 @@ public class Mover : MonoBehaviour
         {
             MoveToCursor();
         }
+        UpdateAnimator();
     }
+
+    private void UpdateAnimator()
+    {
+        
+    }
+
     private void MoveToCursor()
     {
         Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
