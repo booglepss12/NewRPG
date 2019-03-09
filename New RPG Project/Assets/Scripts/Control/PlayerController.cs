@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-
+namespace RPG.Movement { 
 public class PlayerController : MonoBehaviour
 {
 
@@ -21,4 +21,5 @@ public class PlayerController : MonoBehaviour
             GetComponent<Mover>().MoveTo(hit.point);
         }
     }
+}
 }
