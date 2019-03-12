@@ -1,14 +1,15 @@
 ﻿<Properties StartupConfiguration="{D46D3E9A-2939-8D7C-BB34-CB4FAE8B74AE}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Combat/Fighter.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Combat/Health.cs">
     <Files>
       <File FileName="Assets/Scripts/Movement/Mover.cs" Line="9" Column="1" />
       <File FileName="Assets/Scripts/Control/PlayerController.cs" Line="43" Column="58" />
       <File FileName="Assets/Scripts/Core/FollowCamera.cs" Line="3" Column="19" />
-      <File FileName="Assets/Scripts/Combat/Fighter.cs" Line="43" Column="2" />
+      <File FileName="Assets/Scripts/Combat/Fighter.cs" Line="14" Column="38" />
       <File FileName="Assets/Scripts/Combat/CombatTarget.cs" Line="7" Column="9" />
       <File FileName="Assets/Game/Core/ActionScheduler.cs" Line="12" Column="30" />
       <File FileName="Assets/Scripts/Core/IAction.cs" Line="7" Column="2" />
+      <File FileName="Assets/Scripts/Combat/Health.cs" Line="7" Column="5" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
