@@ -304,8 +304,11 @@
 /define:ENABLE_VSTU
 /define:CSHARP_7_OR_LATER
 /define:CSHARP_7_3_OR_NEWER
+"Assets/Game/Core/ActionScheduler.cs"
+"Assets/Game/Core/NewBehaviourScript.cs"
 "Assets/Scripts/Combat/CombatTarget.cs"
 "Assets/Scripts/Combat/Fighter.cs"
 "Assets/Scripts/Control/PlayerController.cs"
 "Assets/Scripts/Core/FollowCamera.cs"
+"Assets/Scripts/Core/IAction.cs"
 "Assets/Scripts/Movement/Mover.cs"
