@@ -5,11 +5,11 @@
       <File FileName="Assets/Scripts/Movement/Mover.cs" Line="9" Column="1" />
       <File FileName="Assets/Scripts/Control/PlayerController.cs" Line="43" Column="58" />
       <File FileName="Assets/Scripts/Core/FollowCamera.cs" Line="3" Column="19" />
-      <File FileName="Assets/Scripts/Combat/Fighter.cs" Line="48" Column="9" />
+      <File FileName="Assets/Scripts/Combat/Fighter.cs" Line="11" Column="48" />
       <File FileName="Assets/Scripts/Combat/CombatTarget.cs" Line="7" Column="9" />
       <File FileName="Assets/Game/Core/ActionScheduler.cs" Line="12" Column="30" />
       <File FileName="Assets/Scripts/Core/IAction.cs" Line="7" Column="2" />
-      <File FileName="Assets/Scripts/Combat/Health.cs" Line="16" Column="1" />
+      <File FileName="Assets/Scripts/Combat/Health.cs" Line="18" Column="27" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
